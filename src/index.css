@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+}
+
+:root {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit- : antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
