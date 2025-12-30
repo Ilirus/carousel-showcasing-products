@@ -1,0 +1,53 @@
+{
+	"products": [
+		{
+			"id": "bear",
+			"title": "Some Bear",
+			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum.",
+			"price": 200,
+			"url": "bear.jpg"
+		},
+		{
+			"id": "boots",
+			"title": "Some Boots",
+			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum. Incididunt voluptate commodo dolor nulla.",
+			"price": 100,
+			"url": "boots.webp"
+		},
+		{
+			"id": "car",
+			"title": "Some Car",
+			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum.",
+			"price": 500,
+			"url": "car.webp"
+		},
+		{
+			"id": "catan",
+			"title": "Some Catan",
+			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum. Laborum ea in anim ad anim sunt exercitation labore sunt reprehenderit voluptate.",
+			"price": 50,
+			"url": "catan.jpeg"
+		},
+		{
+			"id": "computer",
+			"title": "Some Computer",
+			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum.",
+			"price": 500,
+			"url": "computer.jpg"
+		},
+		{
+			"id": "fen",
+			"title": "Some Fen",
+			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum. Qui quis laboris eiusmod Lorem nostrud elit.",
+			"price": 150,
+			"url": "fen.webp"
+		},
+		{
+			"id": "flowers",
+			"title": "Some Flowers",
+			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum.",
+			"price": 200,
+			"url": "flowers.jpg"
+		}
+	]
+}
