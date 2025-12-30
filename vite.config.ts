@@ -1,5 +1,6 @@
 /// <reference types="vitest/config" />
 import { defineConfig } from 'vite'
+import path from 'path'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 import svgr from 'vite-plugin-svgr'
@@ -11,9 +12,16 @@ export default defineConfig({
         tailwindcss(),
         svgr()
     ],
+    resolve: {
+        alias: {
+            '@assets': path.resolve(__dirname, './src/assets'),
+            '@components': path.resolve(__dirname, './src/components'),
+        },
+    },
     test: {
         globals: true,
         environment: 'jsdom',
         setupFiles: ['./src/setupTests.ts'],
     },
+    base: "/carousel-showcasing-products"
 })
