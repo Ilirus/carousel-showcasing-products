@@ -5,7 +5,7 @@ import { useContext, useMemo, type FC } from "react";
 import ProductsContext from "../../contexts/product/ProductContext";
 import OverlayContext from "../../contexts/overlay/OverlayContext";
 import CartModal from "../cartModal/CartModal";
-import { GifIcon, GiftIcon, ShoppingBagIcon } from "@heroicons/react/24/outline";
+import { GiftIcon, ShoppingBagIcon } from "@heroicons/react/24/outline";
 
 const Header: FC = () => {
 	const {productsForOrder} = useContext(ProductsContext);
