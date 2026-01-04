@@ -12,11 +12,11 @@
 			"title": "Some Boots",
 			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum. Incididunt voluptate commodo dolor nulla.",
 			"price": 100,
-			"url": "boots.webp"
+			"url": "boots.jpg"
 		},
 		{
 			"id": "car",
-			"title": "Some Car",
+			"title": "Some Car with very-very long title proident est qui ad sit in aute labore aliqua duis.",
 			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum.",
 			"price": 500,
 			"url": "car.webp"
@@ -26,7 +26,7 @@
 			"title": "Some Catan",
 			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum. Laborum ea in anim ad anim sunt exercitation labore sunt reprehenderit voluptate.",
 			"price": 50,
-			"url": "catan.jpeg"
+			"url": "catan.webp"
 		},
 		{
 			"id": "computer",
@@ -37,7 +37,7 @@
 		},
 		{
 			"id": "fen",
-			"title": "Some Fen",
+			"title": "Some Fen with very-very long title ",
 			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum. Qui quis laboris eiusmod Lorem nostrud elit.",
 			"price": 150,
 			"url": "fen.webp"
@@ -47,7 +47,7 @@
 			"title": "Some Flowers",
 			"description": "Amet officia culpa qui Lorem ea fugiat ipsum culpa ad deserunt ipsum est ipsum.",
 			"price": 200,
-			"url": "flowers.jpg"
+			"url": "flowers.avif"
 		}
 	]
 }
